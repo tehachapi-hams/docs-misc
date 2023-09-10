@@ -67,3 +67,4 @@ While this mailing list **is not operated or managed** by the local Tehachapi Ha
 - Announcements or discussion about club events are welcome on this mailing list, since they are generally open to the public.
 - Being a TARA member is not a requirement to be a member of this mailing list.
 
+This about document is maintained on GitHub, in the [tehachapi-hams/docs-misc repository](https://github.com/tehachapi-hams/docs-misc).
