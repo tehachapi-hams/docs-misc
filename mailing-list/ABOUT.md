@@ -6,11 +6,13 @@ Either a rendered or unrendered version of this Markdown document, should hopefu
 
 ***
 
-A general place for local ham radio operators to coordinate ad-hoc events, contacts or gear exchange.
+A general place for local ham radio operators (or related hobbyists) to coordinate ad-hoc events, contacts or gear exchange.
 
 While generally aligned with the Tehachapi area, this list is not meant to exclude our friends and neighbors in nearby communities who we enjoy collaborating with from afar and when they are visiting town.
 
 New users are welcome, if you don't know any of the local hams, please email [tehachapi-hams+owner@groups.io](mailto:tehachapi-hams+owner@groups.io) to introduce yourself after requesting to join so we know you're not a robot :)
+
+An Amateur Radio License is not required to join the mailing list.
 
 **General discussion for topics like, but not limited to:**
 
